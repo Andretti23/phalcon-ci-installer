@@ -1,5 +1,5 @@
 # Phalcon CI Installer
-
+ 
 [![Travis CI](https://img.shields.io/travis/techpivot/phalcon-ci-installer/master.svg?label=travisci&style=flat-square)](https://travis-ci.org/techpivot/phalcon-ci-installer)
 [![CircleCI](https://img.shields.io/circleci/token/e0f3c984c936d88ad20ca9db4112f032d27930af/project/techpivot/phalcon-ci-installer/master.svg?label=circleci&style=flat-square)](https://circleci.com)
 [![Shippable](https://img.shields.io/shippable/561c5b621895ca44741d44c7.svg?style=flat-square)](https://img.shields.io/shippable/561c5b621895ca44741d44c7.svg)
@@ -28,7 +28,7 @@ Composer integration for PHP applications to install the [Phalcon](https://phalc
         "techpivot/phalcon-ci-installer": "~1.0"
     }
   ```
-1. Update your CI script to execute the **vendor/bin/install-phalcon.sh** installer in the 
+1. Update your CI script to execute the **vendor/bin/install-phalcon.sh** installer in the
 relevant section. See the examples below for various CI providers.
 
 
